@@ -2,6 +2,8 @@
 
 `npm install` after download
 
+development assets are in src, packaged into dist, might need to rearrange that a bit...
+
 Epic
 
 User comes to the site to ask a question, what is...
