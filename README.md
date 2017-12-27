@@ -1,22 +1,24 @@
-# dcm-prototype
+# DCM-prototype
+
+This is the basic site for the DCM Prototype.  We are currently using Heroku for hosting and have not yet selected a forwarding address
 
 `npm install` after download
 
-Epic
+## Heroku
 
-User comes to the site to ask a question, what is...
+[Current staging route](https://dcm-prototype.herokuapp.com/)
 
-Basic Plot Points
+Want to test locally?
+Make sure you have the `heroku-cli`  and run `heroku local`
 
-- [ ] one page site
-- [ ] responsive
-- [ ] room to build out
-- [ ] should we go with react?
+Papertrail is installed or you can just tail the logs if something goes wrong.
 
-   There is no need for higher level state management at this point
+### Procfile
 
-Future Ideas
+is running `node server.js`
 
-- [ ] Mike McGowan presents item 1
-- [ ] Blockchain and Fintech
-- [ ] Software development startup help
+
+## Resources
+
+ - [Rotating card demo](http://demos.creative-tim.com/rotating-card)
+ - [How to for above](http://blog.creative-tim.com/web-design/how-to-add-rotating-css-card-to-your-webpage/)
